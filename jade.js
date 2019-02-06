@@ -1,3 +1,3 @@
 let jade = {
-  colors: "purple, pink, blue"
+  colors: "purple, pink, blue, green"
 }
